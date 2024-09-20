@@ -1,2 +1,2 @@
-# C-_Server_Study
+# Server_Study
 Study Multi Thread &amp; Task &amp; C# Server
