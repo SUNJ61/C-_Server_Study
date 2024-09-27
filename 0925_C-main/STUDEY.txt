@@ -1,0 +1,14 @@
+SpinLock
+Context Switching
+Sleep 이나 yield 같은 메소드를 사용해 가지고
+자신이 보장 받는 시간을 포기하고 다른 사람들한테
+다른 쓰레드들이 그 실행 시간을 활용 할 시간을 벌어주는 기법
+Auto ResetEvent
+ex) 고속도로 톨게이트: 문이 열리고 닫히고를 한동작으로 보는 개념
+Manual Reset Event : 수동문: 수동으로 문을 잠금
+문이 자동으로 안잠기니깐 수동으로 문을 잠궈야 함 
+안그러면 여러 쓰레드들이 점유 되는 상황이 발생함
+ReaderWriteLock
+
+
+C# 간단 한 서버 만들예정
